@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="search_background">#646464</color>
     <color name="app_background">#383838</color>
+    <color name="card_background">#E5E5E5</color>
 </resources>
